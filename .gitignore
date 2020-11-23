@@ -1,0 +1,6 @@
+package-lock.json
+debug.log
+README.md
+/node_modules
+/prod
+/.git
